@@ -9,6 +9,6 @@ I was the lead GIS Developer for a project to create a comprehensive geodatabase
 
 - Geospatial Data Creation: Utilized Autodesk MAP to convert pipeline route data into accurate shapefiles.
 
-- Geodatabase Implementation: Exported shapefiles into ArcGIS to create a central geodatabase containing detailed information on each pipeline including pipe length, material, valves, joins, etc.
+- Geodatabase Implementation: Exported shapefiles into ArcGIS to create a central geodatabase containing detailed information on each pipeline including pipe lengths, materials, valves, joins, etc.
 
 - Data Management: Ensured the geodatabase included critical pipeline details necessary for the facility's management, including ordering, maintenance, and asset tracking of the entire pipeline network.
